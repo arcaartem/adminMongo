@@ -62,7 +62,7 @@
     "lodash": "^4.13.1",
     "moment": "^2.14.1",
     "mongo-uri": "^0.1.2",
-    "mongodb": "^2.2.4",
+    "mongodb": "^2.2.35",
     "mongodb-backup": "^1.6.4",
     "mongodb-extended-json": "^1.7.0",
     "mongodb-restore": "^1.5.4",
@@ -77,14 +77,14 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "colors": "^1.1.2",
-    "electron-prebuilt": "^1.2.8",
+    "electron": "^2.0.4",
     "eslint": "^3.2.0",
     "eslint-config-standard": "^5.3.5",
     "eslint-plugin-promise": "^2.0.0",
     "eslint-plugin-standard": "^2.0.0",
     "jsdom": "^9.4.1",
-    "mocha": "^2.5.3",
-    "mocha-jsdom": "^1.1.0",
-    "supertest": "^1.2.0"
+    "mocha": "^5.2.0",
+    "mocha-jsdom": "^2.0.0",
+    "supertest": "^3.1.0"
   }
 }
